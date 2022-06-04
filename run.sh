@@ -1,2 +1,2 @@
 javac Main.java
-java Main
+java -ea Main
